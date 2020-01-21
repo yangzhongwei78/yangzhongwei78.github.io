@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shortcodes on 忠伟的知识空间 - 分享知识、娱乐大众</title>
+    <link>https://yangzhongwei78.github.io/categories/shortcodes/</link>
+    <description>Recent content in shortcodes on 忠伟的知识空间 - 分享知识、娱乐大众</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>杨忠伟</copyright>
+    <lastBuildDate>Mon, 01 Jan 2018 16:01:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://yangzhongwei78.github.io/categories/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>理财心得</title>
+      <link>https://yangzhongwei78.github.io/post/first/</link>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://yangzhongwei78.github.io/post/first/</guid>
+      <description>建设中</description>
+    </item>
+    
+  </channel>
+</rss>
